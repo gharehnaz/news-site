@@ -1831,8 +1831,6 @@
     <Folder Include="App_Data\" />
     <Folder Include="Content\Admin\assets\plugins\jstree\themes\default\" />
     <Folder Include="Models\" />
-    <Folder Include="Views\AdminHome\" />
-    <Folder Include="Views\Default\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
