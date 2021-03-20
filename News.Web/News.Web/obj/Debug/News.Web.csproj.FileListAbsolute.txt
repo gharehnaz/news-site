@@ -1,3 +1,4 @@
+C:\Users\Mahdi\Desktop\prj\News\News.Web\News.Web\obj\Debug\News.Web.csproj.CoreCompileInputs.cache
 C:\Users\Mahdi\Desktop\prj\News\News.Web\News.Web\bin\News.Web.dll.config
 C:\Users\Mahdi\Desktop\prj\News\News.Web\News.Web\bin\News.Web.dll
 C:\Users\Mahdi\Desktop\prj\News\News.Web\News.Web\bin\News.Web.pdb
@@ -51,6 +52,8 @@ C:\Users\Mahdi\Desktop\prj\News\News.Web\News.Web\bin\roslyn\vbc.rsp
 C:\Users\Mahdi\Desktop\prj\News\News.Web\News.Web\bin\roslyn\VBCSCompiler.exe
 C:\Users\Mahdi\Desktop\prj\News\News.Web\News.Web\bin\roslyn\VBCSCompiler.exe.config
 C:\Users\Mahdi\Desktop\prj\News\News.Web\News.Web\bin\Antlr3.Runtime.dll
+C:\Users\Mahdi\Desktop\prj\News\News.Web\News.Web\bin\EntityFramework.dll
+C:\Users\Mahdi\Desktop\prj\News\News.Web\News.Web\bin\EntityFramework.SqlServer.dll
 C:\Users\Mahdi\Desktop\prj\News\News.Web\News.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\Mahdi\Desktop\prj\News\News.Web\News.Web\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\Mahdi\Desktop\prj\News\News.Web\News.Web\bin\Newtonsoft.Json.dll
@@ -62,6 +65,8 @@ C:\Users\Mahdi\Desktop\prj\News\News.Web\News.Web\bin\System.Web.WebPages.Deploy
 C:\Users\Mahdi\Desktop\prj\News\News.Web\News.Web\bin\System.Web.WebPages.dll
 C:\Users\Mahdi\Desktop\prj\News\News.Web\News.Web\bin\System.Web.WebPages.Razor.dll
 C:\Users\Mahdi\Desktop\prj\News\News.Web\News.Web\bin\WebGrease.dll
+C:\Users\Mahdi\Desktop\prj\News\News.Web\News.Web\bin\EntityFramework.xml
+C:\Users\Mahdi\Desktop\prj\News\News.Web\News.Web\bin\EntityFramework.SqlServer.xml
 C:\Users\Mahdi\Desktop\prj\News\News.Web\News.Web\bin\System.Web.Helpers.xml
 C:\Users\Mahdi\Desktop\prj\News\News.Web\News.Web\bin\System.Web.Mvc.xml
 C:\Users\Mahdi\Desktop\prj\News\News.Web\News.Web\bin\System.Web.Optimization.xml
@@ -72,8 +77,9 @@ C:\Users\Mahdi\Desktop\prj\News\News.Web\News.Web\bin\System.Web.WebPages.Razor.
 C:\Users\Mahdi\Desktop\prj\News\News.Web\News.Web\bin\Newtonsoft.Json.xml
 C:\Users\Mahdi\Desktop\prj\News\News.Web\News.Web\bin\Antlr3.Runtime.pdb
 C:\Users\Mahdi\Desktop\prj\News\News.Web\News.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Mahdi\Desktop\prj\News\News.Web\News.Web\obj\Debug\News.Web.csprojAssemblyReference.cache
-C:\Users\Mahdi\Desktop\prj\News\News.Web\News.Web\obj\Debug\News.Web.csproj.CoreCompileInputs.cache
 C:\Users\Mahdi\Desktop\prj\News\News.Web\News.Web\obj\Debug\News.Web.csproj.CopyComplete
 C:\Users\Mahdi\Desktop\prj\News\News.Web\News.Web\obj\Debug\News.Web.dll
 C:\Users\Mahdi\Desktop\prj\News\News.Web\News.Web\obj\Debug\News.Web.pdb
+C:\Users\Mahdi\Desktop\prj\News\News.Web\News.Web\obj\Debug\News.Web.Migrations.NEWS_DATA_BASE.resources
+C:\Users\Mahdi\Desktop\prj\News\News.Web\News.Web\obj\Debug\News.Web.csproj.GenerateResource.cache
+C:\Users\Mahdi\Desktop\prj\News\News.Web\News.Web\obj\Debug\News.Web.csprojAssemblyReference.cache

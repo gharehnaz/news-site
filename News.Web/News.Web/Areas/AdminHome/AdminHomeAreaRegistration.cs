@@ -16,7 +16,7 @@ namespace News.Web.Areas.AdminHome
         {
             context.MapRoute(
                 "AdminHome_default",
-                "{controller}/{action}/{id}",
+                "AdminHome/{controller}/{action}/{id}",
                 new { action = "Index", id = UrlParameter.Optional }
             );
         }
